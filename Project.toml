@@ -1,0 +1,4 @@
+name = "amundsen"
+uuid = "f8831680-ac13-44cb-81eb-fedacf761843"
+version = "0.1.0"
+authors = ["Magnus Lilledahl <mlilledahl@gmail.com>"]
